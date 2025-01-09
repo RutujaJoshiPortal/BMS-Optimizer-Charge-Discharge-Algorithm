@@ -4,9 +4,13 @@ The Battery Charge/Discharge Control Algorithm is a smart Battery Management Sys
 
 Features
 Charge/Discharge Control: Efficient constant current (CC) and constant voltage (CV) charging phases.
+
 Safety Mechanisms: Monitors voltage and temperature for over/under-voltage protection.
+
 SOC Estimation: Calculates real-time State of Charge (SOC) using current and voltage data.
+
 Real Data Integration: Validates algorithms using real battery data (CSV/Excel).
+
 Visualization: Plots voltage, current, and SOC to analyze performance.
 
 Technologies Used
