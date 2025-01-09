@@ -3,7 +3,7 @@
 Step 1: Understand the Data Structure
 Understand the structure of the data, such as:
 
-Time-stamped data (e.g., timestamp, current, voltage, temperature).
+**Time-stamped data (e.g., timestamp, current, voltage, temperature).**
 Voltage and current readings over time for charge and discharge.
 Discharge cycles or charging phases (constant current or constant voltage).
 Thresholds like over-voltage, under-voltage, or temperature data.
