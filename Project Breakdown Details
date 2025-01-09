@@ -1,9 +1,9 @@
-**Steps to Use Battery Charge/Discharge Data in Excel in the Project:**
+Steps to Use Battery Charge/Discharge Data in Excel in the Project:
 
 Step 1: Understand the Data Structure
 Understand the structure of the data, such as:
 
-**Time-stamped data (e.g., timestamp, current, voltage, temperature).**
+Time-stamped data (e.g., timestamp, current, voltage, temperature).
 Voltage and current readings over time for charge and discharge.
 Discharge cycles or charging phases (constant current or constant voltage).
 Thresholds like over-voltage, under-voltage, or temperature data.
@@ -55,7 +55,7 @@ Validate the system’s response to safety thresholds for over-voltage, under-vo
 
 
 Conclusion: 
-Conclusion
+
 By using the exported battery charge/discharge data, we can effectively simulate real-world scenarios for your Battery Charge/Discharge Control Algorithm. The data will help you tune and test your algorithms and verify how your system performs with actual usage patterns.
 
 This approach enables to:
